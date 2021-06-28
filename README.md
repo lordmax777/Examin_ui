@@ -1,4 +1,4 @@
-# exsmin
+# Examin
 
 <a href="https://ibb.co/bmVVBMN"><img src="https://i.ibb.co/dMvv2wk/dd.jpg" alt="dd" border="0" width = "100"></a>
 <a href="https://ibb.co/QmDSbZ4"><img src="https://i.ibb.co/kcmbHpt/cc.jpg" alt="cc" border="0" width = "100"></a>
@@ -8,7 +8,9 @@
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Examindagi proectim
+1 - pub get install
+2 - flutter run 
 
 A few resources to get you started if this is your first Flutter project:
 
